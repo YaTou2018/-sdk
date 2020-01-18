@@ -1,0 +1,378 @@
+@charset "UTF-8";
+.whiteboard-sdk-px-to-rem .literally .literally-data-loading-wrap:after ,
+.whiteboard-sdk-px-to-rem .literally .literally-data-loading-wrap::after{
+    width: 1rem;
+    height: 1rem;
+    margin-top: -0.5rem;
+    margin-left: -0.5rem;
+}
+.whiteboard-sdk-px-to-rem .remind-content {
+    max-width:1.5rem;
+}
+.whiteboard-sdk-px-to-rem  .ys-audio-player-container{
+    bottom: 0.15rem;
+    height: 0.7rem;
+    border-radius: 0.35rem;
+}
+.whiteboard-sdk-px-to-rem .custom-scroll-bar::-webkit-scrollbar{
+    width: 0.09rem;
+    height:0.09rem;
+}
+.whiteboard-sdk-px-to-rem .roadofcloud-loading:after{
+    width: 1rem;
+    height: 1rem;
+    margin-top: -0.5rem;
+    margin-left: -0.5rem;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root{
+    bottom:0.05rem ;
+    height: 0.4rem;
+    border: 0.015rem solid rgba(41, 41, 41, 1);
+    border-radius: 0.03rem;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root .document-toolbar-btn {
+    width: 0.4rem;
+    height: 0.4rem;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root .document-toolbar-btn.volume-btn .volume-slider-container{
+    padding: 0.08rem 0;
+    border-radius: 0.1rem;
+    border: 0.02rem solid rgba(41,41,41,1);
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root  .document-toolbar-btn.volume-btn .volume-slider-container .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-handle{
+    border: solid 0.02rem #ffffff;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root  .document-toolbar-btn.volume-btn .volume-slider-container .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-track,
+.whiteboard-sdk-px-to-rem .document-toolbar-root  .document-toolbar-btn.volume-btn .volume-slider-container .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-handle{
+    border-radius: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root  .document-toolbar-btn.volume-btn .volume-slider-container .custom-ys-slider.custom-ys-rc-slider .custom-ys-rc-slider-rail{
+    border-radius: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .ys-media-player-total-control{
+    height:0.7rem;
+    border-radius: 0.35rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .media-player-icon{
+    width: 0.7rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .media-player-control-container{
+    width:calc(100% - 0.7rem);
+    padding: 0.1rem 0.35rem 0.1rem 0.2rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .play-pause-btn {
+    width: 0.42rem ;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .media-player-info-container{
+    padding-left: 0.2rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box  .media-player-name-time-container{
+    font-size: 0.13rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box  .media-player-name-time-container .media-player-name{
+    padding-left: 0.02rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box  .media-player-name-time-container  .media-player-time-container{
+    padding-right: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box  .media-player-progress-container{
+    height: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .volume-info-container{
+    height: 0.35rem;
+    margin-left:0.3rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .volume-info-container .volume-icon{
+    width: 0.35rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .volume-info-container .volume-bar-container{
+    height: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box  .close-btn ,
+.whiteboard-sdk-px-to-rem .media-player-box  .full-screen-btn ,
+.whiteboard-sdk-px-to-rem .ys-media-player-container .ys-video-player-close-btn{
+    width: 0.3rem;
+    height: 0.3rem;
+    margin-left: 0.25rem;
+    background-size: 0.1rem auto;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-handle{
+    border: solid 0.02rem #ffffff;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-track{
+    border-radius: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .media-player-box .custom-ys-slider.custom-ys-rc-slider .custom-ys-rc-slider-rail{
+    border-radius: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .ys-select-container{
+    border:0.01rem solid #DDD;
+}
+.whiteboard-sdk-px-to-rem .current-select-text {
+    padding: 0 0.15rem 0 0.08rem;
+}
+.whiteboard-sdk-px-to-rem .arrow-container{
+    width: 0.2rem;
+}
+.whiteboard-sdk-px-to-rem .arrow-container .arrow{
+    width: 0.2rem;
+    height:0.2rem;
+    top:calc(50% - 0.01rem);
+}
+.whiteboard-sdk-px-to-rem .ys-select-container .arrow-container .arrow{
+    height: 0.1rem;
+}
+.whiteboard-sdk-px-to-rem .ys-select-container.showExtendList .arrow-container .arrow{
+    margin-top: -0.07rem;
+}
+.whiteboard-sdk-px-to-rem .arrow-container .arrow:after{
+    border-width: 0.05rem;
+    border-color: #ffffff;
+    border-top-width: 0;
+    border-style: dashed;
+    border-bottom-style: solid;
+    border-left-color: transparent;
+    border-right-color: transparent;
+}
+.whiteboard-sdk-px-to-rem .select-extend-list-container{
+    max-height: calc(5 * 0.25rem);
+}
+.whiteboard-sdk-px-to-rem .select-extend-list-container .select-option{
+    height: 0.25rem;
+    line-height: 0.25rem;
+}
+.whiteboard-sdk-px-to-rem .ys-img.icon_volume{
+    width: 0.3rem;
+    height: 0.3rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-slider.custom-ys-rc-slider {
+    /*height: 0.04rem;*/
+    height: 0.07rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-rc-slider-handle:active{
+    -webkit-box-shadow: 0 0 0.05rem #57c5f7;
+    box-shadow: 0 0 0.05rem #57c5f7;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-slider.custom-ys-rc-slider .custom-ys-rc-slider-handle{
+    margin-left: -0.05rem;
+    margin-top: -0.03rem;
+    width: 0.1rem;
+    height: 0.1rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-rc-slider-mark {
+    top: 0.18rem;
+    font-size: 0.12rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device  .custom-ys-rc-slider-handle{
+    border: solid 0.02rem #2bba76;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-txtValue {
+    width: 0.48rem;
+    height: 0.33rem;
+    border: 0.01rem solid #CCCCCC;
+    line-height:0.33rem;
+    font-size: 0.16rem;
+}
+.whiteboard-sdk-px-to-rem .ys-img.icon_volume.vertikal{
+    width: 0.3rem;
+    height: 0.3rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-slider.custom-ys-detection-device.vertikal{
+    width: 0.04rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-rc-slider-handle.vertikal:active{
+    -webkit-box-shadow: 0 0 0.05rem #57c5f7;
+    box-shadow: 0 0 0.05rem #57c5f7;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-slider.custom-ys-rc-slider.vertikal .custom-ys-rc-slider-handle.vertikal{
+    margin-left: -0.07rem;
+    margin-top: -0.03rem;
+    width: 0.1rem;
+    height:0.1rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-rc-slider-mark.vertikal {
+    top: 0.18rem;
+    font-size: 0.12rem;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device.vertikal  .custom-ys-rc-slider-handle.vertikal{
+    border: solid 0.02rem #2bba76;
+}
+.whiteboard-sdk-px-to-rem .custom-ys-txtValue.vertikal{
+    width: 0.48rem;
+    height: 0.33rem;
+    border: 0.01rem solid #CCCCCC;
+    line-height:  0.33rem;
+    font-size:  0.16rem;
+}
+.whiteboard-sdk-px-to-rem .ys-media-player-container.ys-video-player-container .ys-video-player-close-btn{
+    background-size: 0.12rem auto;
+    width: 0.23rem;
+    height: 0.23rem;
+    right:0.2rem;
+    top: 0.2rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container{
+    border:0.015rem solid rgba(41, 41, 41, 1);
+    border-radius: 0.03rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option{
+    width: 0.6rem;
+    height: 0.5rem;
+    margin-top:0.012rem ;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option:after{
+    top: -0.01rem;
+    height: 0.01rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.shape-list .icon:after ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.shape-list .shape-option .shape-icon:after{
+    border:0.02rem solid #FFFFFF ;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.pen-list .tool-pen-container ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.shape-list .tool-shape-container ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.setting-list .setting-container{
+    margin-left: 0.15rem;
+    border-radius: 0.03rem;
+    border:0.015rem solid rgba(41, 41, 41, 1);
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.pen-list .tool-pen-container:before ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.shape-list .tool-shape-container:before ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.setting-list .setting-container:before{
+    position: absolute;
+    content: '';
+    /* right: 0; */
+    left: -0.1rem;
+    margin-top: -0.03rem;
+    top: 50%;
+    font-size: 0;
+    line-height: 0;
+    border-width: 0.07rem;
+    /*border-color: rgba(41, 41, 41, 0.81);*/
+    border-color: rgba(41, 41, 41, 1);
+    border-top-width: 0;
+    border-style: dashed;
+    border-bottom-style: solid;
+    border-left-color: transparent;
+    border-right-color: transparent;
+    transform: rotate(-90deg);
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.setting-list .setting-container:before{
+    margin-top: -0.22rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.pen-list .tool-pen-container .pen-option  ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.shape-list .tool-shape-container .shape-option{
+    width: 0.5rem;
+    height:0.5rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.setting-list .setting-container{
+    padding: 0.05rem 0.1rem 0.05rem;
+    border-radius: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .setting-list .setting-container{
+    padding: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .colors-container {
+    padding: 0.07rem 0.05rem;
+    border-radius: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .colors-container .color-option{
+   /* width: 0.2rem;
+    height: 0.2rem;
+    margin-left: 0.05rem;*/
+    width: 0.28rem;
+    height: 0.28rem;
+    margin-left: 0.08rem;
+}
+.whiteboard-sdk-px-to-rem .colors-container .color-option.active span{
+    padding: 0.01rem;
+    border: 0.015rem solid #000000;
+}
+.whiteboard-sdk-px-to-rem .font-container .title ,
+.whiteboard-sdk-px-to-rem .pencil-width-container .title ,
+.whiteboard-sdk-px-to-rem .eraser-width-container .title {
+    /*text-shadow: 0.02rem 0.02rem 0.02rem rgba(41, 41, 41, 1);
+    font-size: 0.18rem;
+    margin: 0.05rem 0 0.08rem;*/
+    text-shadow: 0.02rem 0.02rem 0.05rem rgba(41, 41, 41, 1);
+    font-size: 0.25rem;
+    margin: 0.12rem 0 0.1rem;
+}
+.whiteboard-sdk-px-to-rem .font-content-container{
+    padding: 0.08rem 0.05rem;
+    border-radius: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .font-family-container .font-family-option ,
+.whiteboard-sdk-px-to-rem .font-size-container .font-size-list .font-size-option{
+    padding: 0.03rem 0.05rem;
+    border: 0.01rem solid rgba(41, 41, 41, 1);
+    margin-left: 0.05rem;
+    border-radius: 0.03rem;
+}
+.whiteboard-sdk-px-to-rem .font-size-container .font-size-list .font-size-option{
+    margin-top: 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .font-size-container{
+    margin-top: 0.1rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-handle{
+    border: solid 0.02rem #ffffff;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-track ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .custom-ys-slider.custom-ys-rc-slider .custom-ys-rc-slider-rail{
+    /*border-radius: 0.05rem;*/
+    border-radius: 0.07rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .custom-ys-slider.custom-ys-rc-slider.custom-ys-detection-device .custom-ys-rc-slider-handle{
+    width: 0.15rem;
+    height: 0.15rem;
+    border-radius: 50%;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.pen-list.left-show-list .tool-pen-container ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.shape-list.left-show-list .tool-shape-container ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.setting-list.left-show-list .setting-container{
+    margin-right: 0.15rem;
+}
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.pen-list.left-show-list .tool-pen-container:before ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.shape-list.left-show-list .tool-shape-container:before ,
+.whiteboard-sdk-px-to-rem .whiteboard-tool-list-container .tool-option.setting-list.left-show-list .setting-container:before{
+    right: -0.1rem;
+    transform: rotate(90deg);
+    left: auto;
+}
+.whiteboard-sdk-px-to-rem .setting-list-extend .pencil-width-container ,
+.whiteboard-sdk-px-to-rem .setting-list-extend .eraser-width-container {
+    /*padding: 0 0.04rem 0.1rem;*/
+    margin: 0 0.04rem 0.15rem;
+    padding:0;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root .document-toolbar-select .page-info-container{
+    font-size: 0.15rem;
+}
+.whiteboard-sdk-px-to-rem .app-mobile.document-toolbar-root .document-toolbar-select .page-info-container{
+    padding-right: 0.13rem;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root .document-toolbar-select .page-info-container .curr-page{
+    padding: 0.02rem 0.11rem;
+    border: 0.01rem solid rgba(41,41,41,0.8);
+    border-radius: 0.05rem;
+    margin-right: 0.1rem;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root .document-toolbar-select .page-info-container .total-page{
+    padding-left: 0.07rem;
+}
+
+.whiteboard-sdk-px-to-rem .app-mobile .document-toolbar-root .document-toolbar-select .page-info-container .curr-page ,
+.whiteboard-sdk-px-to-rem .app-mobile .document-toolbar-root .document-toolbar-select .page-info-container .total-page {
+    padding: 0 0.05rem;
+}
+.whiteboard-sdk-px-to-rem .document-toolbar-root .document-toolbar-select  .select-root.ys-select-container{
+    font-size: 0.15rem;
+}
+.ys-loading-reload-number{
+    font-size: 0.15rem;
+    margin-top: 0.5rem;
+}
+.app-mobile .ys-loading-reload-number{
+    margin-top: 0.55rem;
+    font-size: 0.22rem;
+}

@@ -1,0 +1,9 @@
+/*
+ * <%= pkg.name %> v<%= pkg.version %>
+ * <%= pkg.description %>
+ * <%= pkg.homepage %>
+ * © 2016-2017 北京云枢讯联科技有限公司 版权所有 
+ * date:dateTemplate
+ * author:<%= pkg.author %>
+ */
+

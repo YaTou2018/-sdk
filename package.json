@@ -1,0 +1,61 @@
+{
+  "name": "roadof-whiteboard-sdk",
+  "version": "3.0.0",
+  "description": "云枢白板sdk",
+  "main": "src-es5/viewIndex.js",
+  "homepage": "http://portal.roadofcloud.com",
+  "private": true,
+  "author": "邱广生",
+  "license": "ISC",
+  "scripts": {
+    "babel-es5": "gulp babel_es5",
+    "build": "gulp build",
+    "build-watch": "gulp auto_build",
+    "dev": "gulp dev",
+    "dev-watch": "gulp auto_dev"
+  },
+  "keywords": [
+    "roadof",
+    "roadof-cloud",
+    "whiteboard-sdk",
+    "sdk"
+  ],
+  "devDependencies": {
+    "@fdaciuk/ajax": "^2.3.0",
+    "babel-core": "^6.26.0",
+    "babel-plugin-transform-builtin-classes": "^0.6.1",
+    "babel-plugin-transform-es2015-modules-amd": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.26.0",
+    "babel-plugin-transform-es2015-modules-systemjs": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-umd": "^6.24.1",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "browserify": "^16.1.0",
+    "eslint": "^4.18.2",
+    "eslint-plugin-import": "^2.9.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-copy": "^1.1.0",
+    "gulp-eslint": "^4.0.2",
+    "gulp-header": "^2.0.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8",
+    "gulp-watch": "^5.0.0",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "pdfobject": "^2.1.1"
+  }
+}

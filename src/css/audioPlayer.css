@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.ys-audio-player-container{
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 95%;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 15px;
+    height:70px;
+    background:rgba(41, 41, 41, 0.81) ;
+    border-radius: 35px;
+}
+

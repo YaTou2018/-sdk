@@ -1,0 +1,2 @@
+
+google-closure-compiler-js  ../src/Events.js ../src/Room.js ../src/RoomUser.js ../src/utils/L.Logger.js ../src/utils/L.Constant.js ../src/utils/StatusCode.js ../src/utils/L.Utils.js ../src/utils/fakeSocketIO.js > ../tksdk_fake.js
